@@ -1,0 +1,9 @@
+body {
+  color: #000;
+}
+.menu {
+  padding-top: 25px;
+}
+.menu_link {
+  font-weight: bold;
+}
